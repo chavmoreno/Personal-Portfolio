@@ -39,3 +39,20 @@
    - Face Recognition and Neural Style Transfer
      - [Face Recognition](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Face_Recognition.ipynb)
      - [Art generation with Neural Style Transfer](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Art_Generation_with_Neural_Style_Transfer.ipynb)
+     
+ 4. **Sequence Models**
+    - Recurrent Neural Networks
+      - [Building your Recurrent Neural Network - Step by step](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+      - [Dinosaurus Island Character level_language model](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Dinosaurus_Island_Character_level_language_model.ipynb)
+      - [Improvise a Jazz Solo with an LSTM Network](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+    - Natural Language Processing and Word Embeddings
+      - [Operations on Words Vectors - Debiasing]()
+      - [Emojify]()
+    - Sequence Models and Attention Mechanism
+      - [Neural Machine Translation]()
+      - [Trigger Word Detection]()
+    - Transformer Network
+      - [Transformers Architecture with Tensorflow]()
+      - [Transformer Pre-Processing]()
+      - [Transformer Network Application: Named-Entity Recognition]()
+      - [Transformer Network Application: Question Answering]()
