@@ -3,6 +3,8 @@ English: Personal Portfolio with all the courses taken and projects carried out,
 
 Español: Portafolio Personal con todos los cursos tomados y proyectos realizados, incluyendo proyectos de los cursos y proyectos personales.
 
-[Deep Learning](https://github.com/chavmoreno/Personal-Portfolio/tree/master/Deep%20Learning)
+## Subjects / Temas:
+
+- [Deep Learning](https://github.com/chavmoreno/Personal-Portfolio/tree/master/Deep%20Learning)
 
 ![Image text](https://machinelearningparatodos.com/wp-content/uploads/2020/01/evolution.png)
