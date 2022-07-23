@@ -46,8 +46,8 @@
       - [Dinosaurus Island Character level_language model](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Dinosaurus_Island_Character_level_language_model.ipynb)
       - [Improvise a Jazz Solo with an LSTM Network](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
     - Natural Language Processing and Word Embeddings
-      - [Operations on Words Vectors - Debiasing]()
-      - [Emojify]()
+      - [Operations on Words Vectors - Debiasing](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Operations_on_word_vectors_v2a.ipynb)
+      - [Emojify](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Emoji_v3a.ipynb)
     - Sequence Models and Attention Mechanism
       - [Neural Machine Translation]()
       - [Trigger Word Detection]()
