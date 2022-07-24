@@ -49,8 +49,8 @@
       - [Operations on Words Vectors - Debiasing](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Operations_on_word_vectors_v2a.ipynb)
       - [Emojify](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Emoji_v3a.ipynb)
     - Sequence Models and Attention Mechanism
-      - [Neural Machine Translation]()
-      - [Trigger Word Detection]()
+      - [Neural Machine Translation](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Neural_machine_translation_with_attention_v4a.ipynb)
+      - [Trigger Word Detection](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Trigger_word_detection_v2a.ipynb)
     - Transformer Network
       - [Transformers Architecture with Tensorflow]()
       - [Transformer Pre-Processing]()
