@@ -53,6 +53,6 @@
       - [Trigger Word Detection](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Trigger_word_detection_v2a.ipynb)
     - Transformer Network
       - [Transformers Architecture with Tensorflow](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/C5_W4_A1_Transformer_Subclass_v1.ipynb)
-      - [Transformer Pre-Processing]()
-      - [Transformer Network Application: Named-Entity Recognition]()
+      - [Transformer Pre-Processing](https://github.com/chavmoreno/Personal-Portfolio/tree/master/Deep%20Learning/Transformer%20Pre-processing)
+      - [Transformer Network Application: Named-Entity Recognition](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Transformer_application_Named_Entity_Recognition.ipynb)
       - [Transformer Network Application: Question Answering]()
