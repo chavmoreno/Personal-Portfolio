@@ -52,7 +52,7 @@
       - [Neural Machine Translation](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Neural_machine_translation_with_attention_v4a.ipynb)
       - [Trigger Word Detection](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/Trigger_word_detection_v2a.ipynb)
     - Transformer Network
-      - [Transformers Architecture with Tensorflow]()
+      - [Transformers Architecture with Tensorflow](https://github.com/chavmoreno/Personal-Portfolio/blob/master/Deep%20Learning/C5_W4_A1_Transformer_Subclass_v1.ipynb)
       - [Transformer Pre-Processing]()
       - [Transformer Network Application: Named-Entity Recognition]()
       - [Transformer Network Application: Question Answering]()
